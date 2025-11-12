@@ -185,7 +185,7 @@ const Hero = () => {
             </motion.a>
 
             <motion.a
-              href="https://drive.google.com/file/d/1Ivj1x7ljKLE31zJiBa1OBP7Jl7XiXjzq/view?usp=sharing"
+              href="https://docs.google.com/document/d/1tEVeo3DnrOFwT6TmXpwbhU_MjbFpd2-UUW_1Bekdc5A/edit?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.1, rotateZ: 2 }}
