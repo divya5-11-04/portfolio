@@ -194,6 +194,7 @@ const Hero = () => {
             >
               <motion.span 
                 className="relative z-10 flex items-center gap-2"
+                initial={false}
                 whileHover={{ x: 5 }}
               >
                 <FaFileDownload /> Resume
