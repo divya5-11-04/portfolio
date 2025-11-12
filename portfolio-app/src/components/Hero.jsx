@@ -197,7 +197,7 @@ const Hero = () => {
                 initial={false}
                 whileHover={{ x: 5 }}
               >
-                <FaFileDownload />My Resume
+                <FaFileDownload />Resume
               </motion.span>
             </motion.a>
           </motion.div>

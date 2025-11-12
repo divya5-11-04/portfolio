@@ -59,7 +59,7 @@ const Chatbot = () => {
     }
 
     if (lowerQuery.includes('achievement') || lowerQuery.includes('award')) {
-      return `Divya has earned AI Skills Passport from EY & Microsoft, ranked Top 10 in Google Gen AI Exchange, and led the winning team at Adobe Hackathon!`;
+      return `Divya has earned AI Skills Passport from EY & Microsoft, ranked Top 10 in Google Gen AI Exchange, and led a stron team at Adobe Hackathon!`;
     }
 
     if (lowerQuery.includes('hi') || lowerQuery.includes('hello')) {
