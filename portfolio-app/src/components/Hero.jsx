@@ -186,6 +186,8 @@ const Hero = () => {
 
             <motion.a
               href="https://drive.google.com/file/d/1Ivj1x7ljKLE31zJiBa1OBP7Jl7XiXjzq/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
               whileHover={{ scale: 1.1, rotateZ: 2 }}
               whileTap={{ scale: 0.95 }}
               className="group relative px-8 py-3 border-2 border-neon-purple rounded-full font-semibold overflow-hidden transition-all duration-300 hover:bg-neon-purple/20 shadow-lg"
