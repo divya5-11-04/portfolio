@@ -1,0 +1,137 @@
+{
+  "personalInfo": {
+    "name": "Divya Monga",
+    "title": "AI Student | ML & DL Developer | Full Stack Innovator",
+    "tagline": "Passionate about applying AI to solve real-world problems",
+    "phone": "+91 8837731267",
+    "email": "ddivya.officially@gmail.com",
+    "location": "Patiala, India",
+    "linkedin": "https://linkedin.com/in/divya-ji4",
+    "github": "https://github.com/divya5-11-04",
+    "resumeLink": "#"
+  },
+  "summary": "Motivated AI student with expertise in Python, Machine Learning, Deep Learning, NLP and Neural Networks. Experienced in data preprocessing, model training, optimization, and deployment. Passionate about applying AI to solve real-world problems and contributing to innovative GenAI-driven projects.",
+  "education": [
+    {
+      "degree": "B.E. Robotics and AI",
+      "institution": "Thapar Institute of Engineering & Technology",
+      "location": "Patiala, India",
+      "duration": "2023 - 2027",
+      "cgpa": "8.87/10",
+      "current": true
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Developer",
+      "company": "Yog Sadhna Kendra Ferozepur (NGO)",
+      "duration": "Jun 2025 - Aug 2025",
+      "responsibilities": [
+        "Designed and deployed a fully responsive website to enhance the institute's digital presence and user engagement",
+        "Developed frontend using HTML, CSS, and JavaScript, and integrated backend workflows in Flask/Python for smooth content updates",
+        "Improved website load speed and accessibility by optimizing UI components and responsive layouts across all devices"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": ["Python", "Advanced Python", "C", "C++", "Data Structures and Algorithms", "SQL"],
+    "aiml": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "Data Science", "NLP", "Computer Vision"],
+    "libraries": ["NumPy", "pandas", "Matplotlib", "OpenCV", "Scikit-learn", "TensorFlow", "PyTorch", "Streamlit", "Flask"],
+    "generative": ["Vertex AI", "Google Gemini", "Imagen", "Multimodal RAG", "Prompt Engineering", "Multimodal Generative Techniques", "Cloud Run Deployment", "Docker (basics)"],
+    "tools": ["Git", "GitHub", "Jupyter Notebook", "Model Deployment", "Image Recognition", "Image Generation"],
+    "soft": ["Problem-Solving", "Analytical Thinking", "Team Collaboration", "Leadership", "Communication", "Innovation"]
+  },
+  "projects": [
+    {
+      "name": "Google Cloud GenAI Hackathon",
+      "description": "Built 5 GenAI applications (marketing pipeline, multimodal RAG insights, AI Chef app, bouquet generator, video analyzer) using Vertex AI, Gemini, Imagen, Docker, Cloud Run, and Streamlit, achieving 40% faster campaign automation.",
+      "tech": ["Vertex AI", "Gemini", "Imagen", "Docker", "Cloud Run", "Streamlit"],
+      "linkg": "#",
+      "linkp": "#",
+      "category": "AI/ML"
+    },
+    {
+      "name": "AI Chatbot | Hugging Face Spaces",
+      "description": "Built a lightweight conversational AI using Gradio + Transformers, deployed on Hugging Face Spaces; optimized runtime and execution memory usage by 45%, enabling smooth CPU-only inference.",
+      "tech": ["Gradio", "Transformers", "Hugging Face"],
+      "linkg": "https://github.com/divya5-11-04/LiteChat",
+      "linkp": "https://huggingface.co/spaces/Divyajii/MyChatbot",
+      "category": "AI/ML"
+    },
+    {
+      "name": "Face Recognition Attendance System",
+      "description": "Achieved 92% accuracy using LBPH + OpenCV for real-time attendance logging.",
+      "tech": ["LBPH", "OpenCV", "Python"],
+      "linkg": "https://github.com/divya5-11-04/Attendance-System",
+      "linkp": "#",
+      "category": "Computer Vision"
+    },
+    {
+      "name": "Sentiment Analysis",
+      "description": "Classified 10,000+ reviews with 91% accuracy using NLP pipelines + VADER.",
+      "tech": ["NLP", "VADER", "Python", "Scikit-learn"],
+      "linkg": "https://github.com/divya5-11-04/Sentiment_Analysis",
+      "category": "NLP"
+    },
+    {
+      "name": "American Express Exit Prediction",
+      "description": "Developed and trained an Artificial Neural Network in TensorFlow on a dataset of 9,930 rows to predict American Express user exits, achieving 80% accuracy through feature engineering, one-hot encoding, and data scaling.",
+      "tech": ["TensorFlow", "Neural Networks", "Python"],
+      "linkg": "https://github.com/divya5-11-04/American_Express_User_Exit_Prediction",
+      "category": "Deep Learning"
+    },
+    {
+      "name": "Fake News Detection",
+      "description": "Built a BERT-based Fake News Detection model using PyTorch & Hugging Face, achieving high accuracy with automated pipelines, benchmarking (PyCarets), and performance visualization.",
+      "tech": ["BERT", "PyTorch", "Hugging Face"],
+      "linkg": "https://github.com/divya5-11-04/Fake_News_Detection_in_DL",
+      "category": "NLP"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "AI Skills Passport - EY & Microsoft",
+      "description": "Earned AI Skills Passport, credited by EY & Microsoft, for expertise in AI fundamentals, ethics, and business applications",
+      "icon": "trophy"
+    },
+    {
+      "title": "Google Gen AI Exchange Program - Top 10",
+      "description": "Ranked among Top 10 in the Gold League in Google Gen AI Exchange Program",
+      "icon": "medal"
+    },
+    {
+      "title": "Adobe Hackathon Winner",
+      "description": "Team Lead for ADOBE HACKATHON (AI Document Summarizer)",
+      "icon": "award"
+    },
+    {
+      "title": "LeetCode Problem Solver",
+      "description": "150+ LeetCode Problems Solved",
+      "icon": "code"
+    }
+  ],
+  "chatbotData": {
+    "faqs": [
+      {
+        "question": "What are Divya's main skills?",
+        "answer": "Divya specializes in Python, Machine Learning, Deep Learning, Neural Networks, NLP, Computer Vision, and Full Stack Development using Flask and React."
+      },
+      {
+        "question": "Tell me about Divya's education",
+        "answer": "Divya is pursuing B.E. in Robotics and AI from Thapar Institute of Engineering & Technology (2023-2027) with a CGPA of 8.87/10."
+      },
+      {
+        "question": "What projects has Divya worked on?",
+        "answer": "Divya has built multiple AI/ML projects including Google Cloud GenAI Hackathon apps, AI Chatbot on Hugging Face, Face Recognition System, Sentiment Analysis, American Express Exit Prediction using Neural Networks, and Fake News Detection using BERT."
+      },
+      {
+        "question": "What are Divya's achievements?",
+        "answer": "Divya has earned AI Skills Passport from EY & Microsoft, ranked Top 10 in Google Gen AI Exchange Program, led ADOBE HACKATHON winning team, and solved 110+ LeetCode problems."
+      },
+      {
+        "question": "What work experience does Divya have?",
+        "answer": "Divya worked as a Full Stack Developer at Yog Sadhna Kendra Ferozepur NGO (Jun-Aug 2025), where she designed and deployed a fully responsive website, developed frontend and backend workflows, and optimized performance."
+      }
+    ]
+  }
+}
