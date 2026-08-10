@@ -17,7 +17,7 @@
       "institution": "Thapar Institute of Engineering & Technology",
       "location": "Patiala, India",
       "duration": "2023 - 2027",
-      "cgpa": "8.87/10",
+      "cgpa": "8.89/10",
       "current": true
     }
   ],
@@ -30,6 +30,16 @@
         "Designed and deployed a fully responsive website to enhance the institute's digital presence and user engagement",
         "Developed frontend using HTML, CSS, and JavaScript, and integrated backend workflows in Flask/Python for smooth content updates",
         "Improved website load speed and accessibility by optimizing UI components and responsive layouts across all devices"
+      ]
+    },
+    {
+  "title": "Summer Intern",
+  "company": "Trident Group",
+  "duration": "Summer 2025",
+  "responsibilities": [
+    "Built a computer vision quality inspection pipeline that saved the company approximately ₹6,48,000 per month",
+    "Led the maintenance team in setting up and installing a new cross hemming machine from Texpa, coordinating directly with the German engineering team",
+    "Audited daily preventive maintenance procedures by referring to OEM guidelines"
       ]
     }
   ],
@@ -46,8 +56,7 @@
       "name": "Google Cloud GenAI Hackathon",
       "description": "Built 5 GenAI applications (marketing pipeline, multimodal RAG insights, AI Chef app, bouquet generator, video analyzer) using Vertex AI, Gemini, Imagen, Docker, Cloud Run, and Streamlit, achieving 40% faster campaign automation.",
       "tech": ["Vertex AI", "Gemini", "Imagen", "Docker", "Cloud Run", "Streamlit"],
-      "linkg": "#",
-      "linkp": "#",
+      "linkp": "https://drive.google.com/file/d/1AS7L11RnmWouzXEDofIw7Cf8t_czcJGq/view?pli=1",
       "category": "AI/ML"
     },
     {
@@ -63,7 +72,7 @@
       "description": "Achieved 92% accuracy using LBPH + OpenCV for real-time attendance logging.",
       "tech": ["LBPH", "OpenCV", "Python"],
       "linkg": "https://github.com/divya5-11-04/Attendance-System",
-      "linkp": "#",
+      "linkp": "https://divya5-11-04.github.io/cvproject/",
       "category": "Computer Vision"
     },
     {
@@ -98,11 +107,6 @@
       "title": "Google Gen AI Exchange Program - Top 10",
       "description": "Ranked among Top 10 in the Gold League in Google Gen AI Exchange Program",
       "icon": "medal"
-    },
-    {
-      "title": "Adobe Hackathon Winner",
-      "description": "Team Lead for ADOBE HACKATHON (AI Document Summarizer)",
-      "icon": "award"
     },
     {
       "title": "LeetCode Problem Solver",
