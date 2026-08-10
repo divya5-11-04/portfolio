@@ -57,7 +57,8 @@
       "description": "Built 5 GenAI applications (marketing pipeline, multimodal RAG insights, AI Chef app, bouquet generator, video analyzer) using Vertex AI, Gemini, Imagen, Docker, Cloud Run, and Streamlit, achieving 40% faster campaign automation.",
       "tech": ["Vertex AI", "Gemini", "Imagen", "Docker", "Cloud Run", "Streamlit"],
       "linkp": "https://drive.google.com/file/d/1AS7L11RnmWouzXEDofIw7Cf8t_czcJGq/view?pli=1",
-      "category": "AI/ML"
+      "category": "AI/ML",
+      "images": ["/portfolio/projects/genai-1.png"]
     },
     {
       "name": "AI Chatbot | Hugging Face Spaces",
@@ -65,7 +66,8 @@
       "tech": ["Gradio", "Transformers", "Hugging Face"],
       "linkg": "https://github.com/divya5-11-04/LiteChat",
       "linkp": "https://huggingface.co/spaces/Divyajii/MyChatbot",
-      "category": "AI/ML"
+      "category": "AI/ML",
+      "images": ["/portfolio/projects/genai-1.png"]
     },
     {
       "name": "Face Recognition Attendance System",
@@ -73,28 +75,32 @@
       "tech": ["LBPH", "OpenCV", "Python"],
       "linkg": "https://github.com/divya5-11-04/Attendance-System",
       "linkp": "https://divya5-11-04.github.io/cvproject/",
-      "category": "Computer Vision"
+      "category": "Computer Vision",
+      "images": ["/portfolio/projects/genai-1.png"]
     },
     {
       "name": "Sentiment Analysis",
       "description": "Classified 10,000+ reviews with 91% accuracy using NLP pipelines + VADER.",
       "tech": ["NLP", "VADER", "Python", "Scikit-learn"],
       "linkg": "https://github.com/divya5-11-04/Sentiment_Analysis",
-      "category": "NLP"
+      "category": "NLP",
+      "images": ["/portfolio/projects/genai-1.png"]
     },
     {
       "name": "American Express Exit Prediction",
       "description": "Developed and trained an Artificial Neural Network in TensorFlow on a dataset of 9,930 rows to predict American Express user exits, achieving 80% accuracy through feature engineering, one-hot encoding, and data scaling.",
       "tech": ["TensorFlow", "Neural Networks", "Python"],
       "linkg": "https://github.com/divya5-11-04/American_Express_User_Exit_Prediction",
-      "category": "Deep Learning"
+      "category": "Deep Learning",
+      "images": ["/portfolio/projects/genai-1.png"]
     },
     {
       "name": "Fake News Detection",
       "description": "Built a BERT-based Fake News Detection model using PyTorch & Hugging Face, achieving high accuracy with automated pipelines, benchmarking (PyCarets), and performance visualization.",
       "tech": ["BERT", "PyTorch", "Hugging Face"],
       "linkg": "https://github.com/divya5-11-04/Fake_News_Detection_in_DL",
-      "category": "NLP"
+      "category": "NLP",
+      "images": ["/portfolio/projects/genai-1.png"]
     }
   ],
   "achievements": [
