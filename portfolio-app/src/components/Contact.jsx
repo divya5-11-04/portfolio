@@ -31,9 +31,9 @@ const Contact = () => {
       // Sign up at https://www.emailjs.com/ to get your credentials
       const result = await emailjs.sendForm(
         'service_pbbx16i', // Replace with your EmailJS service ID
-        'YOUR_TEMPLATE_ID', // Replace with your EmailJS template ID
+        'template_tf0zpke', // Replace with your EmailJS template ID
         formRef.current,
-        'YOUR_PUBLIC_KEY' // Replace with your EmailJS public key
+        'V5YS4z5QGMql5P4hQ' // Replace with your EmailJS public key
       );
 
       console.log(result.text);
