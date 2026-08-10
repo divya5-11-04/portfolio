@@ -59,7 +59,7 @@ const About = () => {
                 <div className="flex items-center gap-3">
                   <div className="w-2 h-2 bg-neon-purple rounded-full animate-pulse" />
                   <span className="text-gray-600 dark:text-gray-400">
-                    <span className="text-neon-cyan font-semibold">CGPA:</span> 8.87/10
+                    <span className="text-neon-cyan font-semibold">CGPA:</span> 8.89/10
                   </span>
                 </div>
                 <div className="flex items-center gap-3">

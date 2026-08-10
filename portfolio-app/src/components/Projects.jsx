@@ -74,7 +74,7 @@ const Projects = () => {
                     whileHover={{ opacity: 1 }}
                     className="absolute inset-0 bg-gray-900/80 flex items-center justify-center gap-4"
                   >
-                    <motion.a
+                   {/*} <motion.a
                       whileHover={{ scale: 1.2 }}
                       href={project.linkg}
                       target="_blank"
@@ -82,7 +82,7 @@ const Projects = () => {
                       className="p-3 bg-neon-purple rounded-full hover:bg-neon-cyan transition-colors text-white"
                     >
                       <FaGithub className="text-2xl" />
-                    </motion.a>
+                    </motion.a> */}
                     <motion.a
                       whileHover={{ scale: 1.2 }}
                       href={project.linkp}

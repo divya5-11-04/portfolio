@@ -90,7 +90,7 @@ const Chatbot = () => {
     }
 
     if (words.some(w => ['education', 'college', 'university', 'degree', 'study'].includes(w))) {
-      return `🎓 Divya is pursuing B.E. in Robotics and AI from Thapar Institute of Engineering & Technology (2023-2027) with a CGPA of 8.87/10.`;
+      return `🎓 Divya is pursuing B.E. in Robotics and AI from Thapar Institute of Engineering & Technology (2023-2027) with a CGPA of 8.89/10.`;
     }
 
     if (words.some(w => ['experience', 'work', 'job', 'internship', 'worked'].includes(w))) {
