@@ -134,7 +134,7 @@ const Achievements = () => {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto"
         >
           {[
-            { label: 'Projects', value: '10+' },
+            { label: 'Projects', value: '45+' },
             { label: 'Technologies', value: '25+' },
             { label: 'Certifications', value: '3+' },
             { label: 'LeetCode', value: '150+' },
