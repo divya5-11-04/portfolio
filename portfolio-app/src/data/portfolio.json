@@ -44,12 +44,178 @@
     }
   ],
   "skills": {
-    "technical": ["Advanced Python", "C", "C++", "Data Structures and Algorithms", "SQL"],
-    "aiml": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "Data Science", "NLP", "Computer Vision"],
-    "libraries": ["NumPy", "pandas", "Matplotlib", "OpenCV", "Scikit-learn", "TensorFlow", "PyTorch", "Streamlit", "Flask"],
-    "generative": ["Vertex AI", "Google Gemini", "Imagen", "Multimodal RAG", "Prompt Engineering", "Multimodal Generative Techniques", "Cloud Run Deployment", "Docker (basics)"],
-    "tools": ["Git", "GitHub", "Jupyter Notebook", "Model Deployment", "Image Recognition", "Image Generation"],
-    "soft": ["Problem-Solving", "Analytical Thinking", "Team Collaboration", "Leadership", "Communication", "Innovation"]
+
+  "aiml": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Neural Networks",
+    "Data Science",
+    "NLP",
+    "Computer Vision",
+    "LLM API Integration (Gemini, Vertex AI, Groq/Llama 3.3, OpenAI compatible)",
+    "Prompt Engineering (system prompts, few shot style matching)",
+    "RAG Pipelines",
+    "Agentic Workflows",
+    "Multi-Agent Systems",
+    "Semantic Search",
+    "Document Intelligence",
+    "Real-Time Voice AI",
+    "Azure Voice Live API",
+    "Microsoft Foundry Agents",
+    "Voice Activity Detection (VAD)",
+    "Transformers",
+    "Hugging Face",
+    "LangChain",
+    "WebSockets",
+    "Async Python",
+    "PyAudio",
+    "Audio Streaming"
+  ],
+
+  "libraries": [
+    "NumPy",
+    "pandas",
+    "Matplotlib",
+    "OpenCV",
+    "Scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "Streamlit",
+    "Flask"
+  ],
+
+  "generative": [
+    "Vertex AI",
+    "Google Gemini",
+    "Imagen",
+    "Multimodal RAG",
+    "Multimodal Generative Techniques",
+    "Cloud Run Deployment",
+    "Docker (basics)"
+  ],
+
+  "tools": [
+    "Git",
+    "GitHub",
+    "Jupyter Notebook",
+    "Model Deployment",
+    "Image Recognition",
+    "Image Generation"
+  ],
+
+  "soft": [
+    "Problem-Solving",
+    "Analytical Thinking",
+    "Team Collaboration",
+    "Leadership",
+    "Communication",
+    "Innovation"
+  ],
+
+  "Languages": [
+    "Python",
+    "C++",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "TypeScript",
+    "Java",
+    "SQL",
+    "PostgreSQL"
+  ],
+
+  "Frameworks and Development": [
+    "React",
+    "Next.js",
+    "FastAPI",
+    "REST APIs",
+    "GitHub Actions (CI/CD)",
+    "Docker",
+    "Cloud Run",
+    "VS Code",
+    "Gradio",
+    "Node.js",
+    "OAuth2",
+    "Webhook and Bot Development",
+    "Supabase (Auth, RLS, Postgres functions and triggers)"
+  ],
+
+  "AI and GenAI": [
+    "LLM API Integration (Gemini, Vertex AI, Groq/Llama 3.3, OpenAI compatible)",
+    "Prompt Engineering (system prompts, few shot style matching)",
+    "RAG Pipelines",
+    "Agentic Workflows",
+    "Multi-Agent Systems",
+    "Semantic Search",
+    "Document Intelligence",
+    "Real-Time Voice AI",
+    "Azure Voice Live API",
+    "Microsoft Foundry Agents",
+    "Voice Activity Detection (VAD)",
+    "NLP",
+    "Transformers",
+    "Hugging Face",
+    "LangChain",
+    "WebSockets",
+    "Async Python",
+    "PyAudio",
+    "Audio Streaming"
+  ],
+
+  "ML and Computer Vision": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "XGBoost",
+    "Random Forest",
+    "Gradient Boosted Trees",
+    "SVM",
+    "OpenCV",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "Feature Engineering",
+    "EDA",
+    "Statistical Analysis"
+  ],
+
+  "Automation": [
+    "n8n Workflow Automation"
+  ],
+
+  "Business Tools": [
+    "Microsoft Office (Excel, PowerPoint, Word)",
+    "Google Slides",
+    "Canva",
+    "Power BI",
+    "Tableau"
+  ],
+
+  "Process and Operations": [
+    "Preventive Maintenance Auditing",
+    "OEM Documentation Compliance",
+    "Root Cause Analysis",
+    "Process Optimization",
+    "SAP (exposure)",
+    "Data Engineering and ETL"
+  ],
+
+  "AI/Cloud": [
+    "Azure AI Services",
+    "Azure AI Voice Live API",
+    "Speech-to-Speech",
+    "Speech Recognition",
+    "Text-to-Speech"
+  ],
+
+  "Backend/Real-Time": [
+    "Flask",
+    "WebSockets",
+    "Real-Time Audio Processing",
+    "Event-Driven Programming"
+  ]
+
   },
   "projects": [
     {
