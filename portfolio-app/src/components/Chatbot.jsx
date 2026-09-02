@@ -192,7 +192,7 @@ const Chatbot = () => {
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed bottom-8 right-8 z-50 p-4 bg-gradient-to-r from-neon-purple to-neon-cyan rounded-full shadow-lg hover:shadow-neon-purple/50 transition-all"
+        className="fixed bottom-8 left-8 z-50 p-4 bg-gradient-to-r from-neon-purple to-neon-cyan rounded-full shadow-lg hover:shadow-neon-purple/50 transition-all"
       >
         <motion.div
           animate={isOpen ? { rotate: 180 } : { rotate: 0 }}
@@ -209,7 +209,7 @@ const Chatbot = () => {
             initial={{ opacity: 0, y: 100, scale: 0.8 }}
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 100, scale: 0.8 }}
-            className="fixed bottom-24 right-8 z-50 w-96 max-w-[calc(100vw-4rem)] max-h-[600px] bg-white dark:bg-gray-950/95 backdrop-blur-md rounded-2xl border border-neon-purple/50 shadow-2xl flex flex-col overflow-hidden"
+            className="fixed bottom-24 left-8 z-50 w-96 max-w-[calc(100vw-4rem)] max-h-[600px] bg-white dark:bg-gray-950/95 backdrop-blur-md rounded-2xl border border-neon-purple/50 shadow-2xl flex flex-col overflow-hidden"
           >
             {/* Header with Clear Button */}
             <div className="bg-gradient-to-r from-neon-purple to-neon-cyan p-4 flex items-center justify-between">

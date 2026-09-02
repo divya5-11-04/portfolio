@@ -1,8 +1,11 @@
 import { motion } from 'framer-motion';
+import { useState } from 'react';
+import NewspaperView from './NewspaperView';
 import { FaTrophy, FaMedal, FaAward, FaCode } from 'react-icons/fa';
 import portfolioData from '../data/portfolio.json';
 
 const Achievements = () => {
+  const [showNewspaper, setShowNewspaper] = useState(false);
   const getIcon = (iconName) => {
     const icons = {
       trophy: FaTrophy,
@@ -27,6 +30,15 @@ const Achievements = () => {
             Achievements & Recognition
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-neon-purple to-neon-cyan mx-auto rounded-full" />
+          <div className="text-center mt-6">
+          <button
+            onClick={() => setShowNewspaper(true)}
+            className="px-6 py-3 rounded-full border-2 border-neon-purple text-neon-cyan font-semibold
+                      hover:bg-neon-purple/10 transition-colors"
+          >
+            📰 View as Newspaper
+          </button>
+          </div>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
@@ -161,6 +173,7 @@ const Achievements = () => {
           ))}
         </motion.div>
       </div>
+      <NewspaperView open={showNewspaper} onClose={() => setShowNewspaper(false)} />
     </section>
   );
 };

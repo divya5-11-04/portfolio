@@ -9,6 +9,7 @@ import Achievements from './components/Achievements';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Chatbot from './components/Chatbot';
+import QuickContact from './components/RecruiterQuickContact';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       <Contact />
       <Footer />
       <Chatbot />
+      <QuickContact />
     </div>
   );
 }

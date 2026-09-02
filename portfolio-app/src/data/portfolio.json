@@ -44,7 +44,7 @@
     }
   ],
   "skills": {
-    "technical": ["Python", "Advanced Python", "C", "C++", "Data Structures and Algorithms", "SQL"],
+    "technical": ["Advanced Python", "C", "C++", "Data Structures and Algorithms", "SQL"],
     "aiml": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Networks", "Data Science", "NLP", "Computer Vision"],
     "libraries": ["NumPy", "pandas", "Matplotlib", "OpenCV", "Scikit-learn", "TensorFlow", "PyTorch", "Streamlit", "Flask"],
     "generative": ["Vertex AI", "Google Gemini", "Imagen", "Multimodal RAG", "Prompt Engineering", "Multimodal Generative Techniques", "Cloud Run Deployment", "Docker (basics)"],
