@@ -113,6 +113,42 @@
   ],
   "achievements": [
     {
+      "title": "McKinsey Forward Program Graduate",
+      "description": "Learnt Problem Solving , Problem structuring, Productive Mindset and Communication Skills from McKinsey & Company",
+      "icon": "medal",
+      "link": "https://www.credly.com/badges/9eecdf49-f1ae-4212-ba71-cacb9691b0e1"
+    },
+    {
+      "title": "Develop GenAI Apps with Gemini and Streamlit Skill Badge",
+      "description": "Learnt to develop Generative AI applications using Google Gemini and Streamlit, including multimodal RAG insights, marketing pipeline automation, and AI Chef app development",
+      "icon": "trophy",
+      "link": "https://www.credly.com/badges/ee9218b9-1e98-4d75-8445-d1f54348651f"
+    },
+    {
+      "title": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge",
+      "description": "Learnt to inspect rich documents using Gemini's multimodality and multimodal RAG capabilities, including marketing pipeline automation, and AI Chef app development",
+      "icon": "trophy",
+      "link": "https://www.credly.com/badges/9dec25ee-bec1-4707-ae75-2d49aa50d6b7"
+    },
+     {
+      "title": "Build Real World AI Applications with Gemini and Imagen Skill Badge",
+      "description": "Learnt to build real-world AI applications using Google Gemini and Imagen, including multimodal RAG insights, marketing pipeline automation, and AI Chef app development",
+      "icon": "medal",
+      "link": "https://www.credly.com/badges/af9d8a80-a1a3-4f87-b44b-13900eed25ad"
+    },
+    {
+      "title": "Explore Generative AI with the Vertex AI Gemini API Skill Badge",
+      "description": "Learnt to explore generative AI with the Vertex AI Gemini API, including marketing pipeline automation, and AI Chef app development",
+      "icon": "trophy",
+      "link": "https://www.credly.com/badges/004d9c72-e34b-4932-a380-a656f03373cd"
+    },
+    {
+      "title": "Prompt Design in Vertex AI Skill Badge",
+      "description": "Learnt prompt design techniques for Vertex AI applications",
+      "icon": "medal",
+      "link": "https://www.credly.com/badges/c8b6cefc-7ab7-4d90-8333-1b07911c797b"
+    },
+    {
       "title": "AI Skills Passport - EY & Microsoft",
       "description": "Earned AI Skills Passport, credited by EY & Microsoft, for expertise in AI fundamentals, ethics, and business applications",
       "icon": "trophy"
