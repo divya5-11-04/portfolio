@@ -126,7 +126,55 @@
       "title": "LeetCode Problem Solver",
       "description": "150+ LeetCode Problems Solved",
       "icon": "code"
-    }
+    },
+    {
+    "title": "Develop an Azure Speech Voice Live Agent in Microsoft Foundry",
+    "description": "Earned badge for developing an Azure Speech Voice Live Agent using Microsoft Foundry tools.",
+    "icon": "mic",
+    "link": "https://learn.microsoft.com/en-us/users/divya-9052/achievements/wm5f5e4n"
+},
+
+{
+    "title": "Develop a Speech Agent with the Azure Speech MCP Server",
+    "description": "Earned badge for building a Speech Agent integrated with the Azure Speech MCP Server.",
+    "icon": "cpu",
+    "link": "https://learn.microsoft.com/en-us/users/divya-9052/achievements/nq5gs35f"
+},
+
+{
+    "title": "Create Speech-Enabled Apps with Azure Speech in Microsoft Foundry Tools",
+    "description": "Earned badge for creating speech-enabled applications using Azure Speech and Foundry tools.",
+    "icon": "volume-2",
+    "link": "https://learn.microsoft.com/en-us/users/divya-9052/achievements/u7bk2753"
+},
+
+{
+    "title": "Develop a Speech-Capable Generative AI Application",
+    "description": "Earned badge for building generative AI applications with speech capabilities.",
+    "icon": "bot",
+    "link": "https://learn.microsoft.com/en-us/users/divya-9052/achievements/fet5rckx"
+},
+
+{
+    "title": "Develop a Text Analysis Agent with the Azure Language MCP Server",
+    "description": "Earned badge for developing text analysis agents using the Azure Language MCP Server.",
+    "icon": "file-text",
+    "link": "https://learn.microsoft.com/en-us/users/divya-9052/achievements/qlh8xcae"
+},
+
+{
+    "title": "Analyze Text with Azure Language in Foundry Tools",
+    "description": "Earned badge for performing text analysis using Azure Language within Microsoft Foundry tools.",
+    "icon": "search",
+    "link": "https://learn.microsoft.com/en-gb/users/divya-9052/achievements/4cng7zck"
+},
+
+{
+    "title": "Develop Natural Language Solutions in Azure",
+    "description": "Earned badge for designing and implementing natural language processing solutions on Azure.",
+    "icon": "message-square",
+    "link": "https://learn.microsoft.com/api/achievements/share/en-us/Divya-9052/EGX53T8P?sharingId=BE49F84E1E9C0758"
+}
   ],
   "chatbotData": {
     "faqs": [
