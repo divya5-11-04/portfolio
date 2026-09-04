@@ -56,7 +56,8 @@
       "name": "AI News Agents",
       "description": "It searches for current news, reads what comes back, and writes a summary where every claim is tied to a specific, clickable source.",
       "tech": ["Gemini 2.5-Flash","Tavily","Fast API","SQLite","React + Vite","pytest/mocked LLM calls"],
-      "linkp": "https://github.com/divya5-11-04/ai-news-agent",
+      "linkp": "https://ai-news-agent-kappa.vercel.app/",
+      "linkg": "https://github.com/divya5-11-04/ai-news-agent",
       "category": "AI/ML",
       "images": ["/portfolio/projects/genai-8.png"]
     },
