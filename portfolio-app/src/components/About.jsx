@@ -25,63 +25,63 @@ const About = () => {
       project: 'RouteGuardian AI',
       description:
         'Predictive maintenance system built using machine learning and XGBoost.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'Deep Learning',
       project: 'Deep Learning Projects',
       description:
         'Built and experimented with neural network architectures for AI applications.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'Neural Networks',
       project: 'Neural Network Projects',
       description:
         'Hands-on implementation and experimentation with neural network models.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'NLP',
       project: 'NLP Projects',
       description:
         'Worked with natural language processing and AI-based language applications.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'Computer Vision',
       project: 'AI Attendance System',
       description:
         'Built a computer vision based attendance system using face detection and recognition.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'TensorFlow',
       project: 'Deep Learning Projects',
       description:
         'Used TensorFlow for developing and experimenting with deep learning models.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'PyTorch',
       project: 'Deep Learning Projects',
       description:
         'Used PyTorch for neural network experimentation and model development.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'React',
       project: 'Interactive Web Applications',
       description:
         'Built modern responsive interfaces using React, Vite, TypeScript and Tailwind CSS.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
     {
       name: 'Flask',
       project: 'AI Backend APIs',
       description:
         'Built Python backend APIs for machine learning and AI applications.',
-      proofUrl: 'https://github.com/',
+      proofUrl: 'https://github.com/divya5-11-04',
     },
   ];
 
